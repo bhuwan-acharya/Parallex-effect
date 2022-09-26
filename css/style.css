@@ -99,7 +99,7 @@ section img#moon {
   mix-blend-mode: screen;
   object-fit: contain;
   margin-top: 200px;
-  margin-left: 500px;
+  margin-left: 20vw;
   height: 200px;
 }
 section img#mountain {
